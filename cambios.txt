@@ -1,0 +1,19 @@
+﻿commit 2e3c5b0720b1fd1561f1cddbf8414ece11634451
+Author: Polo <cdpolo5@misena.edu.co>
+Date:   Fri Mar 18 15:07:21 2016 -0500
+
+    Añadi un select case
+
+
+commit 06a94042f4dbbf0574c469852a31bca0abc20793
+Author: Polo <cdpolo5@misena.edu.co>
+Date:   Fri Mar 18 14:59:31 2016 -0500
+
+    Modifique el fondo de la pagina, añadi un checkbox, y le di un height de 1200px
+
+
+commit 7fe30732f430e2ba85afa526b990b54749286b9f
+Author: Polo <cdpolo5@misena.edu.co>
+Date:   Fri Mar 18 14:51:36 2016 -0500
+
+    Aprendi a añadir archivos, y añadir todos los archivos
