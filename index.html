@@ -1,0 +1,37 @@
+<html>
+	<head>
+		<title>Agenda</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="css/estilos.css">
+	</head>
+	<body>
+	<div class="Contenedor">
+    <center><input type="button" value="Nuevo contacto" onclick="mostrar();" id="boton1" class="btn"></center>
+	       <table id="InfoContacto" style="display:none">
+        <tr>
+            <th>Nombre</th>
+    	    <td><input type="text" placeholder="Digite Nombre del contacto:" id="Nombre" maxlength="12" /></td>
+        </tr>
+        <tr>
+            <th>Telefono</th>
+    	    <td><input type="text" placeholder="Digite Telefono del contacto:" id="Telefono" maxlength="10" /></td>
+        </tr>
+        <tr>
+            <th>E-Mail</th>
+    	    <td><input type="email" placeholder="Digite Email del contacto:" id="Email" /></td>
+        </tr>
+        <tr>
+            <td colspan="2"><center><button class="btn" id="boton1" onclick="guardar();">Guardar</button></center></td>
+        </tr>
+	</table>
+		<fieldset>
+		    <legend>Lista de contactos</legend>
+		    <div id="TodosContactos">
+		        
+		    </div>
+		</fieldset>
+	</div>
+	<script type="text/javascript" src="js/js.js"></script>
+	</body>
+</html>
