@@ -4,6 +4,8 @@ input-placeholder {
 	}
 .Contenedor{
     width: 80%;
+    height: 1200px;
+    background: aqua;
 }
 #InfoContacto{
   left: 41%;
